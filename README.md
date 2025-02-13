@@ -1,4 +1,4 @@
-# weather-app
+# Weather-App
 Welcome to My Weather App! This app soon will be the coolest AI Product in the town!
 
 The weather data is from http://open-meteo.com
