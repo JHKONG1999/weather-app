@@ -1,0 +1,9 @@
+pip -25.0.0
+python- 3.9.0
+streamlit -1.12.0
+MySQL.connector.python- 9.2.0
+altair - 4.2.0
+pandas - 2.2.3
+fpdf- 1.7.2
+requests -2.32.3
+conda- 4.10.3
