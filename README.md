@@ -1,7 +1,7 @@
 # Weather-App
-Welcome to My Weather App! This app soon will be the coolest AI Product in the town!
+Welcome to My Weather App! 
 
--The weather data is from http://open-meteo.com
+-The weather data API is from http://open-meteo.com
 
 
 -The list with over 40,000 cities around world stems from https://simplemaps.com/data/world-cities
